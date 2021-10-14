@@ -1,4 +1,4 @@
-Universitatea Spiru Haret <br>
-Facultatea de Inginerie si Informatica
-Ungureanu Daniel-Robert
-Anul II, grupa 203
+Universitatea Spiru Haret               <br>
+Facultatea de Inginerie si Informatica  <br>
+Ungureanu Daniel-Robert                 <br>
+Anul II, grupa 203                      <br>
